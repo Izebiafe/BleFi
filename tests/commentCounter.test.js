@@ -1,4 +1,4 @@
-import commentCounter from '../src/modules/commentCount.js';
+import commentCounter from '../src/modules/commentCount';
 
 describe('commentCounter', () => {
   test('displays the correct comment count', () => {
