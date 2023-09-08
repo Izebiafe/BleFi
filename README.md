@@ -9,7 +9,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-    - [🚀 Live Demo](#live-demo)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -116,7 +115,7 @@ To run the project, execute the following command:
 
 ## 🚀 Presentation <a name="Presentation"></a>
 <!-- Presentation Video -->
-- This is 'Blefi presentation'<a href="https://drive.google.com/file/d/1MHhrG97FA1rZUoE5seAqxrugmNUlvloV/view">Presentation Video</a>
+- This is Blefi presentation <a href="https://drive.google.com/file/d/1MHhrG97FA1rZUoE5seAqxrugmNUlvloV/view">Presentation Video</a>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
