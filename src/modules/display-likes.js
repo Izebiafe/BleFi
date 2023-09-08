@@ -1,6 +1,6 @@
 import axios from 'axios';
-import getAppName from './localstorage';
-import errorMsg from './error-message';
+import getAppName from './localstorage.js';
+import errorMsg from './error-message.js';
 
 const fetchLikes = async (itemId) => {
   try {

@@ -1,10 +1,10 @@
 import axios from 'axios';
-import likeMovie from './add-likes';
+import likeMovie from './add-likes.js';
 import heart from '../assets/heart.png';
-import displayCommentPop from './popup';
-import fetchLikes from './display-likes';
-import count from './movies-count';
-import errorMsg from './error-message';
+import displayCommentPop from './popup.js';
+import fetchLikes from './display-likes.js';
+import count from './movies-count.js';
+import errorMsg from './error-message.js';
 
 const displayMovies = document.querySelector('.display-movies');
 
