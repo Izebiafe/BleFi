@@ -12,7 +12,7 @@ count();
 
 const displayList = async () => {
   try {
-    const response = await axios.get('https://api.tvmaze.com/shows/1/episodes');
+    const response = await axios.get('https://api.tvmaze.com/shows/1/episode');
 
     const result = response.data;
     const movies = result.splice(0, 12);
